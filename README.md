@@ -31,18 +31,16 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Run the main script:
 python main.py
 
-Project Structure
 Biodiversity-Analysis/
-│── data/                     # Raw datasets (CSV files)
-│── src/                      # Source code for analysis
-│   ├── data_preprocessing.py
-│   ├── Species_decline_across_countries.py
-│   ├── highest_species_decline.py
-│   └── heatmap.py
-│── results/                   # Outputs and visualizations
-│── README.md                  # Project documentation
-│── requirements.txt            # Python dependencies
-
+│── data/ # Raw datasets (CSV files)
+│── src/ # Source code for analysis
+│ ├── data_preprocessing.py
+│ ├── Species_decline_across_countries.py
+│ ├── highest_species_decline.py
+│ └── heatmap.py
+│── results/ # Outputs and visualizations
+│── README.md # Project documentation
+│── requirements.txt # Python dependencies
 
 ##Contributors
 Bollimuntha Kavya Sai
