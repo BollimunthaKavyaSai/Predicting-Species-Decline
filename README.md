@@ -35,7 +35,7 @@ Biodiversity-Analysis/
 │── requirements.txt # Python dependencies
 
 ## Contributors  
-- **Bollimuntha Kavya Sai**  
+- **Kavya Sai**  
 - **Sumithra**  
 - **Chandrika**
 - **Parvathy**
