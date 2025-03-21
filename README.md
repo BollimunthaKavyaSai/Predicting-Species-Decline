@@ -21,8 +21,8 @@ This project analyzes climate-induced biodiversity loss using AI-driven techniqu
 ## Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Biodiversity-Analysis.git
-   cd Biodiversity-Analysis
+   git clone https://github.com/BollimunthaKavyaSai/Predicting-Species-Decline.git
+   cd Predicting-Species-Decline
 
 Install dependencies:
 pip install pandas numpy matplotlib seaborn scikit-learn  
