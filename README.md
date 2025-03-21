@@ -23,47 +23,17 @@ This project analyzes climate-induced biodiversity loss using AI-driven techniqu
    ```bash
    git clone https://github.com/BollimunthaKavyaSai/Predicting-Species-Decline.git
    cd Predicting-Species-Decline
-
-Install dependencies:
-pip install pandas numpy matplotlib seaborn scikit-learn  
-
-
-Run the main script:
-python main.py
-
-import os
-
-# Define directory structure
-dirs = [
-    "Biodiversity-Analysis/data",
-    "Biodiversity-Analysis/src",
-    "Biodiversity-Analysis/results"
-]
-
-# Define files to create
-files = [
-    "Biodiversity-Analysis/src/data_preprocessing.py",
-    "Biodiversity-Analysis/src/Species_decline_across_countries.py",
-    "Biodiversity-Analysis/src/highest_species_decline.py",
-    "Biodiversity-Analysis/src/heatmap.py",
-    "Biodiversity-Analysis/README.md",
-    "Biodiversity-Analysis/requirements.txt"
-]
-
-# Create directories
-for dir in dirs:
-    os.makedirs(dir, exist_ok=True)
-
-# Create empty files
-for file in files:
-    with open(file, "w") as f:
-        pass
-
-print("Project directory structure created successfully!")
-
-
-
-
+Biodiversity-Analysis/
+│── data/ # Raw datasets (CSV files)
+│── src/ # Source code for analysis
+│ ├── data_preprocessing.py
+│ ├── Species_decline_across_countries.py
+│ ├── highest_species_decline.py
+│ └── heatmap.py
+│── results/ # Outputs and visualizations
+│── README.md # Project documentation
+│── requirements.txt # Python dependencies
+gie e for thew readme.md file
 
 ## Contributors  
 - **Bollimuntha Kavya Sai**  
