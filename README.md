@@ -42,12 +42,15 @@ Biodiversity-Analysis/
 │── README.md # Project documentation
 │── requirements.txt # Python dependencies
 
-##Contributors
-Bollimuntha Kavya Sai
-Sumithra
-Chandrika
-Parvathy
-Renuka
+
+
+
+## Contributors  
+- **Bollimuntha Kavya Sai**  
+- **Sumithra**  
+- **Chandrika**
+- **Parvathy**
+- **Renuka** 
 
 
 
