@@ -33,7 +33,6 @@ Biodiversity-Analysis/
 │── results/ # Outputs and visualizations
 │── README.md # Project documentation
 │── requirements.txt # Python dependencies
-gie e for thew readme.md file
 
 ## Contributors  
 - **Bollimuntha Kavya Sai**  
