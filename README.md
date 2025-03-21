@@ -44,7 +44,7 @@ Biodiversity-Analysis/
 │── requirements.txt            # Python dependencies
 
 
-Contributors
+##Contributors
 Bollimuntha Kavya Sai
 Sumithra
 Chandrika
@@ -53,7 +53,7 @@ Renuka
 
 
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 This README provides a **clear project overview**, **setup steps**, and **structure details**. Let me know if you need any modifications!
