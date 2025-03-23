@@ -25,17 +25,18 @@ This project analyzes climate-induced biodiversity loss using AI-driven techniqu
    cd Predicting-Species-Decline
 ## Biodiversity-Analysis/
 - **│── data/ # Raw datasets (CSV files)**
+- **│ ├── Climate_impacts_by_country.csv**
+- **│ ├── transboundary_richness.csv**
+- **│ └── transboundary_range_shifts.csv**
 - **│── src/ # Source code for analysis**
-- **│ ├── data_preprocessing.py**
 - **│ ├── Species_decline_across_countries.py**
 - **│ ├── highest_species_decline.py**
 - **│ └── heatmap.py**
 - **| └── Lowest_countries.py**
 - **| └── global_heatmap_of_species_by_country.py**
-- **│── results/ # Outputs and visualizations**
+- **│── report.pdf**
 - **│── README.md # Project documentation**
-- **│── requirements.txt # Python dependencies**
-
+- **│── Supporting_documentation.pdf**
 ## Contributors  
 - **Kavya Sai**  
 - **Sumithra**  
