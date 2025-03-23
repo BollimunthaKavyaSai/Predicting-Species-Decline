@@ -30,6 +30,8 @@ Biodiversity-Analysis/
 │ ├── Species_decline_across_countries.py
 │ ├── highest_species_decline.py
 │ └── heatmap.py
+| └── Lowest_countries.py
+| └── global_heatmap_of_species_by_country.py
 │── results/ # Outputs and visualizations
 │── README.md # Project documentation
 │── requirements.txt # Python dependencies
