@@ -37,7 +37,8 @@ This project analyzes climate-induced biodiversity loss using AI-driven techniqu
 - **│── report.pdf**
 - **│── README.md # Project documentation**
 - **│── Supporting_documentation.pdf**
-## Contributors  
+## Contributors
+- **IR Oivya**
 - **Kavya Sai**  
 - **Sumithra**  
 - **Chandrika**
